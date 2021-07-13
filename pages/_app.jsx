@@ -1,4 +1,6 @@
 import '../styles/globals.css'
+import '../styles/navbar.css'
+import '../styles/catalogo.css'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />

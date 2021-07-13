@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ciganinha-florzinhas-com-saia",
+    "title": "Ciganinha florzinhas com saia",
+    "price": "69,90",
+    "installments": "2x de 34,95 sem juros",
+    "image_url": "./image-1.png"
+  },
+  {
+    "id": "ciganinha-tropical-com-shorts",
+    "title": "Ciganinha tropical com shorts",
+    "price": "59,90",
+    "installments": "2x de 29,95 sem juros",
+    "image_url": ""
+  },
+  {
+    "id": "amarelo-florzinhas-com-saia",
+    "title": "Amarelo florzinhas com saia",
+    "price": "89,90",
+    "installments": "3x de 29,96 sem juros<",
+    "image_url": ""
+  },
+  {
+    "id": "floral-daisy-com-shorts",
+    "title": "Floral daisy com shorts",
+    "price": "89,90",
+    "installments": "3x de 29,96 sem juros",
+    "image_url": ""
+  },
+  {
+    "id": "top-listras-com-short",
+    "title": "Top listras com short",
+    "price": "69,90",
+    "installments": "2x de 34,95 sem juros",
+    "image_url": ""
+  },
+
+  {
+    "id": 6,
+    "title": "Rosa floral com short",
+    "price": "99,90",
+    "installments": "3x de 33,30 sem juros",
+    "image_url": ""
+  },
+  {
+    "id": "tie-back-floral-casual-com-short",
+    "title": "Tie back floral casual com short",
+    "price": "49,90",
+    "installments": "2x de 24,95 sem juros",
+    "image_url": ""
+  },
+  {
+    "id": "cherries-blue-com-short",
+    "title": "Cherries blue com short",
+    "price": "49,90",
+    "installments": "2x de 24,95 sem juros",
+    "image_url": ""
+  }
+]
