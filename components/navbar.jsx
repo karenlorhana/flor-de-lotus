@@ -4,8 +4,14 @@ import PersonIcon from '@material-ui/icons/Person'
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart'
 import { Icon } from '@material-ui/core'
 import Button from '@material-ui/core/Button'
+import { useRouter } from 'next/router'
 
 const Navbar = () => {
+  const router = useRouter()
+  const handleClick = () => {
+    router.push(`/carrinho`)
+  }
+  // router.push(`/c
   return (
     <div className='nav-bg'>
       <nav className='navbar'>
@@ -31,7 +37,7 @@ const Navbar = () => {
             <span> em compras acima de R$99,90</span>
           </section>
           <Button>
-            <Icon className='cart-icon'>
+            <Icon className='cart-icon' onClick={handleClick}>
               <ShoppingCartIcon fontSize='medium' />
             </Icon>
           </Button>

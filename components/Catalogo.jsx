@@ -7,14 +7,11 @@ import {
   roupa06,
   roupa07,
   roupa08,
-} from './api/images'
+} from '../pages/api/images'
 import Image from 'next/image'
-import React from 'react'
 import Link from 'next/link'
-
-import { fetchProducts } from './api'
-import { useState } from 'react'
-import { useEffect } from 'react'
+import { fetchProducts } from '../pages/api'
+import { React, useState, useEffect } from 'react'
 
 const Catalogo = () => {
   const [products, setProducts] = useState([])
