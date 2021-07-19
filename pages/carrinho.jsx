@@ -13,6 +13,7 @@ const Carrinho = () => {
       fetchProductsById([
         'ciganinha-florzinhas-com-saia',
         'amarelo-florzinhas-com-saia',
+        'ciganinha-tropical-com-shorts',
       ])
     )
 
